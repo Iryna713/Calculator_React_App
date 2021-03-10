@@ -181,7 +181,7 @@ function App() {
 
           </div>
           <div className="calculator__row">
-            <button type="button" value="ac" className="calculator__key calculator__clear">ac</button>
+            <button autoFocus type="button" value="ac" className="calculator__key calculator__clear">ac</button>
             <button type="button" value="clear" className="calculator__key calculator__backspace">C</button>
             <button type="button" value="%" className="calculator__key calculator__operator">%</button>
             <button type="button" value="/" className="calculator__key calculator__operator">/</button>
