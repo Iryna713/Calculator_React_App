@@ -1,4 +1,4 @@
-[demolink](https://iryna713.github.io/calculator/)
+[demolink](https://iryna713.github.io/Calculator_React_App/)
 
 Task:
 
